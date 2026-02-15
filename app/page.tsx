@@ -34,8 +34,8 @@ const Page = () => {
                     <div key={img.id} className={"img-container"}><Image src={`/${img.image}`} alt={""} width={800} height={500} /></div>
                 ))}
             </div>
-            <div className={"gov-container"} style={{gap: "5%"}}>
-                <div className={"desc-container"} style={{maxWidth: '50%'}}>
+            <div className={"gov-container"} style={{gap: "8%"}}>
+                <div className={"desc-container g"} style={{maxWidth: '50%'}}>
                     <div><Image src={"/abiye.jpg"} className={"image-gov"} alt={""} width={400} height={400}/></div>
                     <div className={"desc-title"} style={{maxWidth: '60%'}}><h2>PM Abiy Ahmed Participation that we want</h2></div>
                     <div>
@@ -43,7 +43,7 @@ const Page = () => {
                     </div>
 
                 </div>
-                <div className={"desc-container"} style={{maxWidth: '50%'}}>
+                <div className={"desc-container g"} style={{maxWidth: '50%'}}>
                     <div><Image src={"/adanech.jpg"} className={"image-gov"} alt={""} width={400} height={300}/></div>
                     <div className={"desc-title"} style={{maxWidth: '60%'}}><h2>Adanech Ababia Participation that we want</h2></div>
                     <div>
