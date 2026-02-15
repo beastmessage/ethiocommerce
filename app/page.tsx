@@ -74,7 +74,7 @@ const Page = () => {
                                   d="M1.885.511a1.745 1.745 0 0 1 2.61.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.68.68 0 0 0 .178.643l2.457 2.457a.68.68 0 0 0 .644.178l2.189-.547a1.75 1.75 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.6 18.6 0 0 1-7.01-4.42 18.6 18.6 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877z"/>
                         </svg>
                     </button></Link>
-                    <Link href={"mailto:official.ethiocommerce@gmail.com"}><button className={"download"}>
+                    <a href={"mailto:official.ethiocommerce@gmail.com"}><button className={"download"}>
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
                              className="bi bi-envelope-arrow-down" viewBox="0 0 16 16">
                             <path
@@ -82,7 +82,7 @@ const Page = () => {
                             <path
                                 d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7m.354-1.646a.5.5 0 0 1-.722-.016l-1.149-1.25a.5.5 0 1 1 .737-.676l.28.305V11a.5.5 0 0 1 1 0v1.793l.396-.397a.5.5 0 0 1 .708.708z"/>
                         </svg>
-                    </button></Link>
+                    </button></a>
                 </div>
             </div>
             </div>
