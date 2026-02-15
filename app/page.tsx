@@ -37,7 +37,7 @@ const Page = () => {
             <div className={"gov-container"} style={{gap: "8%"}}>
                 <div className={"desc-container g"} style={{maxWidth: '50%'}}>
                     <div><Image src={"/abiye.jpg"} className={"image-gov"} alt={""} width={400} height={400}/></div>
-                    <div className={"desc-title"} style={{maxWidth: '60%'}}><h2>PM Abiy Ahmed Participation that we want</h2></div>
+                    <div className={"desc-title"} style={{maxWidth: '60%'}}><h2>PM Abiy Ahmed Ali Participation that we want</h2></div>
                     <div>
                         <p className={"desc-text"} style={{maxWidth: "60%"}}>We want PM Abiy Ahmed to support us by giving us some privacy security and office renting for 1 years to fix the current strategy of Ethiopian market to get start with Ethiocommerce. we also need to support by business registration and business licence with all goods and materials types with proper tax rates and with also other types of support needed to start working in Ethiocommerce.</p>
                     </div>
@@ -45,9 +45,9 @@ const Page = () => {
                 </div>
                 <div className={"desc-container g"} style={{maxWidth: '50%'}}>
                     <div><Image src={"/adanech.jpg"} className={"image-gov"} alt={""} width={400} height={300}/></div>
-                    <div className={"desc-title"} style={{maxWidth: '60%'}}><h2>Adanech Ababia Participation that we want</h2></div>
+                    <div className={"desc-title"} style={{maxWidth: '60%'}}><h2>Adanech Abiebie Participation that we want</h2></div>
                     <div>
-                        <p className={"desc-text"} style={{maxWidth: "60%"}}>We need adanech Ababia to support us by giving us some privileges in addis ababa and to provide us some privacy security guards and with also other types of support needed to start working in Ethiocommerce.</p>
+                        <p className={"desc-text"} style={{maxWidth: "60%"}}>We need adanech Abiebie to support us by giving us some privileges in addis ababa and to provide us some privacy security guards and with also other types of support needed to start working in Ethiocommerce.</p>
                     </div>
 
                 </div>
