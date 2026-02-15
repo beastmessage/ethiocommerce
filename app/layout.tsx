@@ -19,7 +19,7 @@ const sofia = Sofia({
 
 export const metadata: Metadata = {
   title: "Ethiocommerce government proposal",
-  description: "please see our proposal and contact us",
+  description: "please see our proposal and contact us!",
 };
 
 export default function RootLayout({
