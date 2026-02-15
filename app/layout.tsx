@@ -18,9 +18,30 @@ const sofia = Sofia({
 });
 
 export const metadata: Metadata = {
-  title: "Ethiocommerce government proposal",
-  description: "please see our proposal and contact us.",
-};
+    title: 'Ethiocommerce partnership proposal to government',
+    description: 'please read our docs and contact us.',
+    openGraph: {
+        title: 'Ethiocommerce partnership proposal to government',
+        description: 'please read our docs and contact us.',
+        url: 'https://ethiocommerce.vercel.app',
+        siteName: 'ethiocommerce',
+        images: [
+            {
+                url: 'https://i.imgur.com/ydZC0tg.png',
+                width: 1200,
+                height: 630,
+            },
+        ],
+        locale: 'en_US',
+        type: 'website',
+    },
+    twitter: {
+        card: 'summary_large_image',
+        title: 'Ethiocommerce partnership proposal to government',
+        description: 'please read our docs and contact us.',
+        images: ['https://i.imgur.com/ydZC0tg.png'],
+    },
+}
 
 export default function RootLayout({
   children,
