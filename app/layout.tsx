@@ -27,7 +27,7 @@ export const metadata: Metadata = {
         siteName: 'ethiocommerce',
         images: [
             {
-                url: '/logo.png',
+                url: '/cover.png',
                 width: 1200,
                 height: 630,
             },
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
         card: 'summary_large_image',
         title: 'Ethiocommerce partnership proposal to government',
         description: 'please read our docs and contact us.',
-        images: ['/logo.png'],
+        images: ['/cover.png'],
     },
 }
 
