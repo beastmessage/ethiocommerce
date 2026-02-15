@@ -47,7 +47,7 @@ const Page = () => {
                     <div><Image src={"/adanech.jpg"} className={"image-gov"} alt={""} width={400} height={300}/></div>
                     <div className={"desc-title"} style={{maxWidth: '60%'}}><h2>Adanech Abiebie Participation that we want</h2></div>
                     <div>
-                        <p className={"desc-text"} style={{maxWidth: "60%"}}>We need adanech Abiebie to support us by giving us some privileges in addis ababa and to provide us some privacy security guards and with also other types of support needed to start working in Ethiocommerce.</p>
+                        <p className={"desc-text"} style={{maxWidth: "60%"}}>We need Adanech Abiebie to support us by giving us some privileges in addis ababa and to provide us some privacy security guards and with also other types of support needed to start working in Ethiocommerce.</p>
                     </div>
 
                 </div>
