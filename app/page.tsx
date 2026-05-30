@@ -5,6 +5,11 @@ import Link from "next/link";
 import {images} from "@/lib/images";
 const Page = () => {
     return (
+        <>
+            <div>This removed because of government policy</div>
+        </>
+    );
+    return (
         <div>
             <Header />
             <div className={"top"}>
