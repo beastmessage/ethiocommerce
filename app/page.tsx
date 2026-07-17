@@ -4,6 +4,7 @@ import {descriptions} from '@/componenets/descriptions'
 import Link from "next/link";
 import {images} from "@/lib/images";
 const Page = () => {
+    
     return (
         <div>
             <Header />
